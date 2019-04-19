@@ -1,0 +1,28 @@
+body{
+  margin:0;
+  padding: 0;
+  background-color: #cccccc;
+}
+
+#container{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#inputsection{
+  padding: 20px;
+}
+#uname{
+  margin: 10px;
+  height: 23px;
+  width: 300px;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+}
+#action{
+  background-color: #eeeeee;
+  border: 1px solid #cccccc;
+  border-radius: 2px;
+  height: 23px
+}

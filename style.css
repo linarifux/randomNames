@@ -26,3 +26,8 @@ body{
   border-radius: 2px;
   height: 23px
 }
+
+#result{
+  font-family: sans-serif;
+  font-size: 40px;
+}

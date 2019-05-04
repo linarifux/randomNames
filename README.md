@@ -1,3 +1,7 @@
-# randomNames
+# Hidden Meaning of Your Name
 
-Here you go with some new magics
+This is a funny project with pure javascript code.
+
+Put a list of your own favorite names inside the newName[] array from index.js file and enjoy
+
+Thanks.

@@ -4,7 +4,7 @@ var inputForm = document.querySelector('#inputform');
 var result = document.querySelector('#result');
 // Submit Button will work for the following code
 action.addEventListener('click',(boom)=>{
-    var newName = ['Smart','GuluGulu','Awesome','Adorable','Angelic','Charming','Classy','Dazzling','Delightful','Cute','Gorgeous','Marvelous','Pretty','Stunning','Dreamer','Tantalizing','wonderful'];
+    var newName = ['Smart','GuluGulu','Awesome','Adorable','Angelic','Charming','Classy','Dazzling','Delightful','Cute','Gorgeous','Marvelous','Pretty','Stunning','Dreamer','Tantalizing','wonderful','Devil','Villain','Hero','Hitlar','Dreamer','Hablu','Lazy','Badass'];
     var randomNumber = parseInt(Math.random() * newName.length);
     console.log(newName[randomNumber]);
     if (uname.value === "") {
